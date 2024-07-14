@@ -22,14 +22,6 @@
     <a href="#-license">
         License
     </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://www.youtube.com/c/midudev">
-        YouTube
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://twitter.com/midudev">
-        Twitter
-    </a>
 </div>
 
 <p></p>
@@ -158,7 +150,3 @@ Don't forget that add it to your `.env` file
 - [ ] Mejorar la precarga de las imágenes de las siguientes secciones en idle
 - [ ] Pestaña para cambiar entre ediciones en la página "Archivo"
 
-### 👀 Lo haremos en directo en Twitch
-
-- [ ] Base de datos para las votaciones
-- [ ] Backend para las votaciones
