@@ -93,12 +93,6 @@ pnpm dev
 
 4. Open [**http://localhost:4321**](http://localhost:4321/) with your browser to see the result 🚀
 
-### 🤝 Contributing
-
-<a href="https://github.com/midudev/esland-web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/esland-web" />
-</a>
-
 ## 🔑 Get your Twitch client ID and secret
 
 Before being able to initialize the application, you will need to obtain your ***client ID*** and ***client secret*** from Twitch.
