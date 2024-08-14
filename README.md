@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="public/favicon.svg" height="50px" width="auto" /> 
 <h3>
@@ -132,10 +133,6 @@ Don't forget that add it to your `.env` file
 | ⚙️  | `dev` or `start` | Starts local dev server at `localhost:3000`.  |
 | ⚙️  | `build`          | Build your production site to `./dist/`.      |
 | ⚙️  | `preview`        | Preview your build locally, before deploying. |
-
-## 🔑 License
-
-[MIT](#) - Created by [**midu.dev**](https://midu.dev).
 
 ## ✅ Por hacer...
 
